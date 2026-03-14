@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tommyokeefe/cli-scrobbler/releases/download/0.1.1/scrobble_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/tommyokeefe/cli-scrobbler/releases/download/0.2/scrobble_0.2_windows_amd64.zip",
             "bin": [
                 "scrobble.exe"
             ],
-            "hash": "355a1b0cea6223e461af6224289a6b9fae67788c80cb475dc405cca0183c7ed9"
+            "hash": "62d5d8033ceeefce42464c865c321b0a40d63692ff46d8ab64590d5301f47cfa"
         }
     },
     "homepage": "https://github.com/tommyokeefe/cli-scrobbler",
