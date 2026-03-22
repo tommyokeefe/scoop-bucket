@@ -1,14 +1,15 @@
 {
-    "version": "0.3",
+    "version": "0.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tommyokeefe/cli-scrobbler/releases/download/0.3/scrobble_0.3_windows_amd64.zip",
+            "url": "https://github.com/tommyokeefe/cli-scrobbler/releases/download/0.4/scrobble_0.4_windows_amd64.zip",
             "bin": [
                 "scrobble.exe"
             ],
-            "hash": "007e5cfd64fbfcccd6d5c2059ca7e69d2dc3c392145c357cbb5eed07ea4b7e12"
+            "hash": "357046565fc253ee939fe729cf7f148c3e2de496f910ddd3d87541a7ccd238b1"
         }
     },
     "homepage": "https://github.com/tommyokeefe/cli-scrobbler",
+    "license": "GPL-3.0",
     "description": "Scrobble albums from Discogs to Last.fm from the command line."
 }
